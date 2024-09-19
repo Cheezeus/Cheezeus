@@ -1,4 +1,4 @@
-[![MasterHead](https://motionbgs.com/i/c/960x540/media/5377/gojo-with-white-cat.jpg)](https://github.com/Cheezeus)
+[![MasterHead](https://github.com/Cheezeus/Cheezeus/blob/main/asset/gojo-with-white-cat.jpg)](https://github.com/Cheezeus)
 
 <div align="center">
   <h2>Cheezeus here 👋</h2>
@@ -39,7 +39,7 @@
 
 <div align="center">
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Cheezeus&theme=neon" />
-  <img align="right" width="192" src="https://media.tenor.com/9PTrqLFf9u4AAAAM/gojo-cat.gif" />
+  <img align="right" width="192" src="https://github.com/Cheezeus/Cheezeus/blob/main/asset/gojo-cat-gif.gif" />
 </div>
 
 <!--
