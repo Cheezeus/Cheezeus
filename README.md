@@ -25,12 +25,12 @@
 </div>
 
 # 🏆 Trophies
-<div>
-  <img height="171" align="left" src="https://github-profile-trophy.vercel.app/?username=Cheezeus&theme=radical" />
+<div align="center">
+  <img height="171" width="100%" align="left" src="https://github-profile-trophy.vercel.app/?username=Cheezeus&theme=radical"/>
 </div>
 
 # 📊 Stats
-<div align="center">
+<div align="center" display="block">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cheezeus&count_private=true&include_all_commits=true&theme=neon" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cheezeus&layout=compact&theme=neon" />
 </div>
@@ -38,7 +38,7 @@
 ---
 
 <div align="center">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Cheezeus&theme=neon" />
+  <img align="left" width="75%" src="https://github-readme-streak-stats.herokuapp.com?user=Cheezeus&theme=neon" />
   <img align="right" width="192" src="https://github.com/Cheezeus/Cheezeus/blob/main/asset/gojo-cat-gif.gif" />
 </div>
 
