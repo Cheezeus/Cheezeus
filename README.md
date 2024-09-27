@@ -38,7 +38,7 @@
 ---
 
 <div align="center">
-  <img align="left" width="75%" src="https://github-readme-streak-stats.herokuapp.com?user=Cheezeus&theme=neon" />
+  <img align="left" width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Cheezeus&theme=neon" />
   <img align="right" width="192" src="https://github.com/Cheezeus/Cheezeus/blob/main/asset/gojo-cat-gif.gif" />
 </div>
 
