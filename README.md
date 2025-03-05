@@ -6,8 +6,8 @@
 </div>
 
 #### About Me...
-- 🎓 Final year at PCU Informatics Department Bachelor Degree
 - 🌱 I’m currently learning about Artificial Intelligence & Full-Stack Development
+- 🎓 PCU Informatics Department Bachelor Degree
 - 📫 How to reach me: See my contact info in the profile 👈
 - ⚡ Fun fact: Love gaming, sleeping, chilling, fox, dragon, and *\*cough*\* Gojo *\*cough*\*
 
