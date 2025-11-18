@@ -33,17 +33,29 @@
 </div>
 
 # 📊 Stats
-<div align="center" display="block">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cheezeus&count_private=true&include_all_commits=true&theme=neon" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cheezeus&layout=compact&theme=neon" />
-</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td align="center" width="50%" style="border:none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Cheezeus&count_private=true&include_all_commits=true&theme=neon" />
+    </td>
+    <td align="center" width="50%" style="border:none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cheezeus&layout=compact&theme=neon" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-<div align="center">
-  <img align="left" width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Cheezeus&theme=neon" />
-  <img align="right" width="192" src="https://github.com/Cheezeus/Cheezeus/blob/main/asset/gojo-cat-gif.gif" />
-</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td align="center" width="50%" style="border:none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Cheezeus&theme=neon" />
+    </td>
+    <td align="center" width="50%" style="border:none;">
+      <img src="https://github.com/Cheezeus/Cheezeus/blob/main/asset/gojo-cat-gif.gif" />
+    </td>
+  </tr>
+</table>
 
 <!--
 **Cheezeus/Cheezeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
